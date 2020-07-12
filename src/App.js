@@ -26,7 +26,7 @@ function App() {
         </h1>
         <CountDown
           style={{ textAlign: "center" }}
-          date={new Date()}
+          date={wedding_date}
           before={"Is getting married"}
           on_the_day={"Today's the day!"}
           after={"Have been married for "}
