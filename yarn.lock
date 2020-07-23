@@ -8830,10 +8830,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-player@2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.5.0.tgz#7b3e3351cc3436b175b92295ac9ca4cdaeae4cab"
-  integrity sha512-wwTp6KO6uF/QRvwV2rh+jb6A7rfZLgdVPKTgidXYYvb2IkjYd3Db9BtSVGqQeLw1e9y3OSucBCrLlJtovSMuzg==
+react-player@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.6.0.tgz#5b425d5c8514b552c29af353adb232f4dbb0bdcf"
+  integrity sha512-RLzAnHO00ZA5VnAZX6A6SGfCKQLOEcBGOM4POWAQkugh0VY2HjWUOYbHVt/7xeogyK3E1fP9dOxoPyLv8lBZ/A==
   dependencies:
     deepmerge "^4.0.0"
     load-script "^1.0.0"
