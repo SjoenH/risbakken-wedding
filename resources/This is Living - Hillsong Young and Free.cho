@@ -2,6 +2,7 @@
 {subtitle: By Hillsong Young And Free}
 {artist:Hillsong Young And Free}
 {key: E}
+# chordpro -x 3
 
 {c:Intro}
 [A] ////  [B] ////  [C#m] //// [F#m7] ////
@@ -64,4 +65,5 @@ God Your [A]freedom is an open [B]door
 You are [C#m]everything I want and [F#m7]more
 {eoc}
 
-
+{c:Outro? x2}
+[A] ////  [B] ////  [C#m] //// [F#m7] ////
